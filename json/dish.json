@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1, 
+        "name": "Fufu and Soup", 
+        "image": "https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+        "images": [
+            "https://i.ytimg.com/vi/pXiU9z8WNIw/maxresdefault.jpg", 
+            "https://recipes.net/wp-content/uploads/2023/09/how-to-make-egusi-soup-and-fufu-1696001904.jpg", 
+            "https://i.pinimg.com/originals/4d/4d/a5/4d4da5cedcc9d96b08697e4a4438e80f.jpg"
+        ], 
+        "ingredients": [
+            {"description":"Pepper", "image": "https://www.agrofix.ng/cdn/shop/products/pepper.jpg?v=1673621653"},
+            {"description":"Okro", "image": "https://babymigo.com/public/blog/49186g524cac2.jpg"},
+            {"description":"Kpanla Fish", "image": "https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"},
+            {"description":"Chopped Onions", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pc6rncLxU-rZN2_LiiAUlllhjccazhc17A&usqp=CAU"},
+            {"description":"Tomatoes", "image": "https://www.uvm.edu/content/shared/files/styles/1200/public/uvm-extension-cultivating-healthy-communities/tomatoes2-e.jpg?t=rpri8o"},
+            {"description":"Eggs", "image": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg"},
+            {"description":"Maggi", "image": "https://zippgrocery.com/wp-content/uploads/2020/06/chicken.jpeg"}, 
+            {"description":"Kpanla Fish", "image":"https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"}, 
+            {"description":"Kenkey", "image":"https://i.ytimg.com/vi/nztHVyZdTZ4/maxresdefault.jpg"}
+        ]
+    },
+    {
+        "id": 2, 
+        "name": "Fried Rice", 
+        "image": "https://images.unsplash.com/photo-1579112965143-9139ed2a522a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxqSFhJUmZ4cVpha3x8ZW58MHx8fHx8",
+        "images": [
+            "https://images.unsplash.com/photo-1579112965143-9139ed2a522a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXxqSFhJUmZ4cVpha3x8ZW58MHx8fHx8", 
+            "https://thewoksoflife.com/wp-content/uploads/2022/12/Thai-fried-rice-21.jpg", 
+            "https://chefsavvy.com/wp-content/uploads/vegetable-fried-rice-in-bowl.jpg"
+        ],
+        "ingredients": [
+            {"description":"Pepper", "image": "https://www.agrofix.ng/cdn/shop/products/pepper.jpg?v=1673621653"},
+            {"description":"Okro", "image": "https://babymigo.com/public/blog/49186g524cac2.jpg"},
+            {"description":"Kpanla Fish", "image": "https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"},
+            {"description":"Chopped Onions", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pc6rncLxU-rZN2_LiiAUlllhjccazhc17A&usqp=CAU"},
+            {"description":"Tomatoes", "image": "https://www.uvm.edu/content/shared/files/styles/1200/public/uvm-extension-cultivating-healthy-communities/tomatoes2-e.jpg?t=rpri8o"},
+            {"description":"Eggs", "image": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg"},
+            {"description":"Maggi", "image": "https://zippgrocery.com/wp-content/uploads/2020/06/chicken.jpeg"}, 
+            {"description":"Kpanla Fish", "image":"https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"}, 
+            {"description":"Kenkey", "image":"https://i.ytimg.com/vi/nztHVyZdTZ4/maxresdefault.jpg"}
+        ]
+    },
+    {
+        "id": 3, 
+        "name": "Ghana Jollof", 
+        "image": "https://images.unsplash.com/photo-1599354607448-8ad6e92b027a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Sm9sbG9mfGVufDB8fDB8fHww",
+        "images": [
+            "https://images.unsplash.com/photo-1599354607448-8ad6e92b027a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Sm9sbG9mfGVufDB8fDB8fHww", 
+            "https://zenaskitchen.com/wp-content/uploads/2022/12/jollof-rice.jpg", 
+            "https://eatwellabi.com/wp-content/uploads/2022/11/Jollof-rice-16.jpg"
+        ],
+        "ingredients": [
+            {"description":"Pepper", "image": "https://www.agrofix.ng/cdn/shop/products/pepper.jpg?v=1673621653"},
+            {"description":"Okro", "image": "https://babymigo.com/public/blog/49186g524cac2.jpg"},
+            {"description":"Kpanla Fish", "image": "https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"},
+            {"description":"Chopped Onions", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pc6rncLxU-rZN2_LiiAUlllhjccazhc17A&usqp=CAU"},
+            {"description":"Tomatoes", "image": "https://www.uvm.edu/content/shared/files/styles/1200/public/uvm-extension-cultivating-healthy-communities/tomatoes2-e.jpg?t=rpri8o"},
+            {"description":"Eggs", "image": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg"},
+            {"description":"Maggi", "image": "https://zippgrocery.com/wp-content/uploads/2020/06/chicken.jpeg"}, 
+            {"description":"Kpanla Fish", "image":"https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"}, 
+            {"description":"Kenkey", "image":"https://i.ytimg.com/vi/nztHVyZdTZ4/maxresdefault.jpg"}
+        ]
+    },
+    {
+        "id": 4, 
+        "name": "Plain Rice", 
+        "image": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Sm9sbG9mfGVufDB8fDB8fHww",
+        "images": [
+            "https://images.unsplash.com/photo-1596560548464-f010549b84d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Sm9sbG9mfGVufDB8fDB8fHww", 
+            "https://www.unclejerryskitchen.com/wp-content/uploads/2008/05/fried-rice.jpg", 
+            "https://www.thespruceeats.com/thmb/kUoSjpktuKuTQpxkm-OFgOxl8s4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-make-basic-white-rice-2355883-10-5b0da96eba6177003622896e.jpg"
+        ],
+        "ingredients": [
+            {"description":"Pepper", "image": "https://www.agrofix.ng/cdn/shop/products/pepper.jpg?v=1673621653"},
+            {"description":"Okro", "image": "https://babymigo.com/public/blog/49186g524cac2.jpg"},
+            {"description":"Kpanla Fish", "image": "https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"},
+            {"description":"Chopped Onions", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pc6rncLxU-rZN2_LiiAUlllhjccazhc17A&usqp=CAU"},
+            {"description":"Tomatoes", "image": "https://www.uvm.edu/content/shared/files/styles/1200/public/uvm-extension-cultivating-healthy-communities/tomatoes2-e.jpg?t=rpri8o"},
+            {"description":"Eggs", "image": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg"},
+            {"description":"Maggi", "image": "https://zippgrocery.com/wp-content/uploads/2020/06/chicken.jpeg"}, 
+            {"description":"Kpanla Fish", "image":"https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"}, 
+            {"description":"Kenkey", "image":"https://i.ytimg.com/vi/nztHVyZdTZ4/maxresdefault.jpg"}
+        ]
+    },
+    {
+        "id": 5, 
+        "name": "Waakye", 
+        "image": "https://www.sophiaapenkro.com/wp-content/uploads/2023/06/Waakye.jpeg",
+        "images": [
+            "https://www.sophiaapenkro.com/wp-content/uploads/2023/06/Waakye.jpeg", 
+            "https://static.finmail.com/wp-content/uploads/2021/09/12093713/11.jpg", 
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19qR23KK1bSAn4eFq2cLh7LrClDxPm1TOrw&usqp=CAU"
+        ],
+        "ingredients": [
+            {"description":"Pepper", "image": "https://www.agrofix.ng/cdn/shop/products/pepper.jpg?v=1673621653"},
+            {"description":"Okro", "image": "https://babymigo.com/public/blog/49186g524cac2.jpg"},
+            {"description":"Kpanla Fish", "image": "https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"},
+            {"description":"Chopped Onions", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pc6rncLxU-rZN2_LiiAUlllhjccazhc17A&usqp=CAU"},
+            {"description":"Tomatoes", "image": "https://www.uvm.edu/content/shared/files/styles/1200/public/uvm-extension-cultivating-healthy-communities/tomatoes2-e.jpg?t=rpri8o"},
+            {"description":"Eggs", "image": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg"},
+            {"description":"Maggi", "image": "https://zippgrocery.com/wp-content/uploads/2020/06/chicken.jpeg"}, 
+            {"description":"Kpanla Fish", "image":"https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"}, 
+            {"description":"Kenkey", "image":"https://i.ytimg.com/vi/nztHVyZdTZ4/maxresdefault.jpg"}
+        ]
+    },
+    {
+        "id": 6, 
+        "name": "Kenke and Fish", 
+        "image": "https://i.pinimg.com/originals/52/16/99/5216992341ed8ba26111c775920e0712.jpg",
+        "images": [
+            "https://preview.redd.it/kenkey-cornmeal-dumpling-fried-omelette-fried-fish-fried-v0-9jbw0ytlb3ib1.png?auto=webp&s=86a7dd0143c980af1e8c21fb45d50302a71b373d", 
+            "https://www.sophiaapenkro.com/wp-content/uploads/2023/06/Kenkey-Fish-3.jpeg.webp", 
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmfoZfkCDHXgWGGzByD0S5ViU0viDpHbDgMg&usqp=CAU"
+        ],
+        "ingredients": [
+            {"description":"Pepper", "image": "https://www.agrofix.ng/cdn/shop/products/pepper.jpg?v=1673621653"},
+            {"description":"Okro", "image": "https://babymigo.com/public/blog/49186g524cac2.jpg"},
+            {"description":"Kpanla Fish", "image": "https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"},
+            {"description":"Chopped Onions", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pc6rncLxU-rZN2_LiiAUlllhjccazhc17A&usqp=CAU"},
+            {"description":"Tomatoes", "image": "https://www.uvm.edu/content/shared/files/styles/1200/public/uvm-extension-cultivating-healthy-communities/tomatoes2-e.jpg?t=rpri8o"},
+            {"description":"Eggs", "image": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg"},
+            {"description":"Maggi", "image": "https://zippgrocery.com/wp-content/uploads/2020/06/chicken.jpeg"}, 
+            {"description":"Kpanla Fish", "image":"https://i0.wp.com/ghfruit.com/wp-content/uploads/2021/06/herrings.jpg?fit=300%2C225&ssl=1"}, 
+            {"description":"Kenkey", "image":"https://i.ytimg.com/vi/nztHVyZdTZ4/maxresdefault.jpg"}
+        ]
+    }
+]
